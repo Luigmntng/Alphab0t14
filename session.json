@@ -1,2 +1,7 @@
-Taro session lu di sini
-put ur session here
+{
+	"clientID": "SdGpWmjR3WvzIAY7tE/6lA==",
+	"serverToken": "1@tfa42bRLoxBMajVoNBW7Xyqi5IIlmiO3uLxenzTuhByBe+gPwbeF/uRt4Z4GURbac1VwCT910sYECA==",
+	"clientToken": "D+holNhwl9ahjqXcVsr8OrBwACzsuCDrRGgYIIFqhJU=",
+	"encKey": "xUE2v6oplV828lKGRf90/Tcokug91VBShEND5eph7bs=",
+	"macKey": "rDL1Ew2xj+FWGRc37uEjZuwCqdFQD9BRNdbbNdUZDcM="
+}
